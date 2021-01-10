@@ -1,5 +1,5 @@
 # Bullet_Hell_Prototype
-A small test game I made in pyglet to learn how to use it. Only the BulletHell.py portion works, as I never got around to implementing dynamic animation.
+A test game I made in pyglet to learn how to use it. Only the BulletHell.py portion works, as I never got around to implementing dynamic animation.
 
 Movement is controlled with WASD, while aiming is controlled by the mouse cursor. Space fires bullets, and their speed is dependent on the cursor distance from the player circle.
 
